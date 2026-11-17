@@ -1,118 +1,56 @@
-bioRxiv
-arXiv
-EcoEvoRxiv
-EarthArXiv
+American Political Science Review
+American Journal of Political Science
+The Journal of Politics
+British Journal of Political Science
+European Journal of Political Research
+World Politics
+Perspectives on Politics
+Annual Review of Political Science
+Quarterly Journal of Political Science
+Political Science Research and Methods
+Political Analysis
+Political Studies
+Political Research Quarterly
+International Studies Quarterly
+Comparative Political Studies
+Comparative Politics
+Studies in Comparative International Development
+Democratization
+Journal of Democracy
+Government and Opposition
+Politics and Governance
+Party Politics
+Electoral Studies
+Journal of Elections Public Opinion and Parties
+West European Politics
+Comparative European Politics
+European Political Science Review
+Legislative Studies Quarterly
+Regional and Federal Studies
+Journal of Law and Courts
+International Journal of Constitutional Law
+Politische Vierteljahresschrift
+Zeitschrift für Vergleichende Politikwissenschaft
+Zeitschrift für Politikwissenschaft
+Zeitschrift für Parlamentsfragen
+Österreichische Zeitschrift für Politikwissenschaft
+Swiss Political Science Review
+Latin American Politics and Society
+Journal of Latin American Studies
+Latin American Research Review
+Journal of Politics in Latin America
+Journal of East Asian Studies
+Asian Survey
+Journal of Contemporary Asia
+Europe-Asia Studies
+Post-Soviet Affairs
+East European Politics
+East European Politics and Societies
+Communist and Post-Communist Studies
+Journal of Modern African Studies
+African Affairs
+Mediterranean Politics
+SSRN Electronic Journal
+SocArXiv
 OSF Preprints
-Nature
-Science
-Proceedings of the National Academy of Sciences
-Nature Communications
-Science Advances
-PLOS One
-Scientific Reports
-Current Biology
-Proceedings of the Royal Society B: Biological Sciences
-One Earth
-PeerJ
-eLife
-Cell
-iScience
-Nature Ecology & Evolution
-Nature Climate Change
-Nature Geoscience
-Nature Machine Intelligence
-Nature Sustainability
-Nature Plants
-Nature Water
-Nature Computational Science
-Scientific Data
-Nature Methods
-Trends in Ecology & Evolution
-Annual Review of Ecology, Evolution, and Systematics
-Annual Review of Environment and Resources
-Annual Review of Earth and Planetary Sciences
-Biological Reviews
-Nature Reviews Earth & Environment
-Ecology Letters
-Global Change Biology
-Conservation Letters
-Journal of Applied Ecology
-Conservation Biology
-Biological Conservation
-Ecological Applications
-Methods in Ecology and Evolution
-Ecology
-Journal of Ecology
-Oikos
-Oecologia
-Diversity and Distributions
-Global Ecology and Biogeography
-Functional Ecology
-Landscape Ecology
-Ecosystems
-Frontiers in Ecology and the Environment
-The American Naturalist
-Ecography
-Biodiversity and Conservation
-Animal Conservation
-Perspectives in Plant Ecology, Evolution and Systematics
-Basic and Applied Ecology
-Plant Ecology
-Evolutionary Applications
-Journal of Animal Ecology
-Journal of Biogeography
-Restoration Ecology
-Urban Ecosystems
-Biological Invasions
-Biotropica
-Conservation Science and Practice
-Ecological Monographs
-Ecological Indicators
-Marine Ecology Progress Series
-Freshwater Biology
-Forest Ecology and Management
-Wildlife Research
-Wildlife Society Bulletin
-The Journal of Wildlife Management
-Oryx
-Biogeochemistry
-Ecological Modelling
-Remote Sensing of Environment
-ISPRS Journal of Photogrammetry and Remote Sensing
-IEEE Transactions on Geoscience and Remote Sensing
-International Journal of Applied Earth Observation and Geoinformation
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-Remote Sensing Letters
-Remote Sensing Applications: Society and Environment
-Remote Sensing in Ecology and Conservation
-ISPRS International Journal of Geo-Information
-Journal of Machine Learning Research
-Journal of Artificial Intelligence Research
-Environmental Data Science
-Environmental Modelling & Software
-Ecological Informatics
-Environmental Research Letters
-Science of The Total Environment
-Journal of Environmental Management
-Global Environmental Change
-Earth System Dynamics
-Global Biogeochemical Cycles
-Journal of Environmental Informatics
-Ecological Economics
-Ecosystem Services
-Environmental Science & Policy
-Journal of Environmental Economics and Management
-Review of Environmental Economics and Policy
-Environmental and Resource Economics
-Advances in Neural Information Processing Systems
-International Conference on Machine Learning
-International Conference on Learning Representations
-Proceedings of the AAAI Conference on Artificial Intelligence
-Ecology and Society
-People and Nature
-Ambio
-Geoscientific Model Development
-Big Earth Data
-Bioacoustics
-National Bureau of Economic Research
+APSA Preprints
