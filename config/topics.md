@@ -1,26 +1,26 @@
-#Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+#Democratic Backsliding
+Research on the erosion of democracy in established and electoral democracies, typically driven by elected incumbents rather than coups: executive aggrandizement, democratic erosion and decay, autocratic legalism, and attacks on judicial independence, the media, civil society, opposition parties and electoral integrity. Includes work on causes and mechanisms (polarization, populism, party strategies, institutional design, economic and cultural drivers), comparative case studies and cross-national analyses (for example Hungary, Poland, Turkey, India, Brazil, the United States), and on democratic resilience and effective resistance by courts, parties, voters, civil society and international actors.
 
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+#Autocratization
+Research on regime-level processes of democratic decline and breakdown: autocratization episodes and turning points, gradual versus sudden regime change, coups, self-coups and military takeovers, and global or regional trends in democracy and autocracy. Interested in explanations of why and when autocratization starts, accelerates, or is stopped and reversed (U-turns), the role of international factors such as diffusion, linkage and leverage, and empirical work using V-Dem, Polity, Freedom House or Bertelsmann Transformation Index data.
 
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
+#Electoral Authoritarianism
+Research on hybrid regimes, competitive authoritarianism and electoral autocracies: how incumbents manipulate elections, restrict the opposition and tilt the playing field; electoral fraud and its detection; opposition strategies such as coordination, boycotts and coalition building; the role of dominant and ruling parties, legislatures, and elections as tools of authoritarian control, information gathering and legitimation; and the conditions under which elections trigger democratization or autocratic consolidation.
 
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
+#Authoritarian Resilience
+Research on how and why autocratic regimes survive: repression, co-optation, authoritarian institutions (parties, legislatures, courts), personalist, military, monarchical and party-based regimes, succession and leadership turnover, elite politics, propaganda, censorship and digital authoritarianism, legitimation and performance, restrictions on civil society, and protest dynamics and their suppression. Also covers autocratic cooperation and regime diffusion, the foreign policy of autocracies, and the influence of China and Russia on political regimes abroad.
 
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
+#Democratization
+Research on transitions to democracy and democratic consolidation: causes and modes of transition, mass mobilization and protest movements, civil society, elite pacts and constitution-making in transitions, the role of the military, third-wave and later cases, post-conflict and post-communist transformation, democracy promotion, EU conditionality and other international influences, and the conditions under which new democracies become stable or fail.
 
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
+#Comparative Political Institutions
+Comparative research on the design and effects of political institutions in democracies and non-democracies: presidential, semi-presidential and parliamentary systems, executive-legislative relations, constitutional design and amendment, constitutional courts and judicial independence, federalism and decentralization, legislatures and veto players, cabinet formation and coalition governance, and electoral systems. Includes work that compares political systems across countries or over time, and studies of institutional change and reform.
 
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
+#Measuring Democracy
+Research on the conceptualization and measurement of democracy and political regimes: democracy indices and expert-coded data (V-Dem, Polity, Freedom House, Regimes of the World, Bertelsmann Transformation Index), measurement validity and bias, aggregation, regime classification, and conceptual debates on electoral, liberal and deliberative democracy and on democratic quality. Includes research design and methods used in comparative politics such as case selection, QCA, time-series cross-section analysis, and causal inference with cross-national data.
 
-#Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
+#Party Systems
+Research on party systems, party competition and party organization in comparative perspective: party system change and fragmentation, electoral volatility, realignment, party-voter linkages and clientelism, party membership, candidate selection, coalition formation, electoral rules and their effects on party competition, and the weakening of established parties. Includes new parties, niche and green parties, and the transformation of party systems in new and old democracies.
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Populism
+Research on populism, the radical right and polarization and their implications for democracy: populist parties and governments, illiberalism, affective and political polarization, citizens' support for democratic norms and attitudes toward democracy, the effects of populists in office on institutions and rights, and responses by mainstream parties, including cordon sanitaire strategies, party bans and militant democracy, as well as explanations of populist support across countries.
